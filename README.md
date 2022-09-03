@@ -1,4 +1,4 @@
-# UC-Flutter-cw-1
+# UC-Flutter-cw-2
 
 ## تمرين 1
 أول تمرين حيل بسيط و سهل  نبي منكم تقومون بإنشاء برنامج جديد و تحفظونه باسم flutter_first_project
